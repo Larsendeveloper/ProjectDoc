@@ -1,0 +1,280 @@
+[
+    {
+        "id": 1,
+        "product_name": "Dennis Lingo Men's Checkered Slim Fit Cotton Casual Shirt",
+        "category": " Mens Fashion",
+        "category_id": 1,
+        "Price": 679,
+        "Size": "Medium",
+        "Image": "https://ibb.co/Gd4NrbZ",
+        "Color": "Dusty Blue",
+        "Brand": "Dennis Lingo ",
+        "rating": "4.3"
+    },
+    {
+        "id": 2,
+        "product_name": "ASIAN Men's Wonder-13 Sports Running Shoes",
+        "category": "Mens Fashion",
+        "category_id": 1,
+        "Price": 450,
+        "Size": "Medium",
+        "Image": "https://ibb.co/9ZVFWfJ",
+        "Color": "1Green",
+        "Brand": "ASIAN ",
+        "rating": "3"
+    },
+    
+    {
+        "id": 3,
+        "product_name": "Fastrack Analog Black Dial Unisex-Adult Watch-38024PP25",
+        "category": "Mens Fashion",
+        "category_id": 1,
+        "Price": 450,
+        "Image": "https://ibb.co/ggGCM01",
+        "Color": "Black, Case Shape",
+        "Brand": "Fastrack ",
+        "rating": "3.4"
+    },
+    {
+        "id": 4,
+        "product_name": "American Tourister 32 Ltrs Grey Casual Backpack (AMT FIZZ SCH BAG 02 - GREY)",
+        "category": "Mens Fashion",
+        "category_id": 1,
+        "Price": 899,
+        "Capacity": " 32 liters; Dimensions: 32.5 cms x 18 cms x 50 cms (LxWxH)",
+        "Image": "https://ibb.co/sqt1bmn",
+        "Color": " Grey",
+        "Brand": "American Tourister ",
+        "rating": "4.5"
+    },
+    {
+        "id": 5,
+        "product_name": "Puma Men's Cape Coat",
+        "category": "Mens Fashion",
+        "category_id": 1,
+        "Price": 1399,
+        "Size": "large",
+        "Image": "https://ibb.co/D1hjgcj",
+        "Color": "Puma Black",
+        "Brand": "Puma ",
+        "rating": "4"
+        
+    },
+
+
+    {
+        "id": 1,
+        "product_name": "FUNDAY FASHION Women's Solid Regular Jacket",
+        "category": "Women's Fashion",
+        "category_id": 2,
+        "Price": 479,
+        "Size": "Medium",
+        "Image": "https://ibb.co/SxySFGz",
+        "Color": "Light Blue",
+        "Brand": "FUNDAY FASHION ",
+        "rating": "3,888"
+    },
+    {
+        "id": 2,
+        "product_name": "Furiozz Women's Fashion Sandals A4-Parent",
+        "category": "Women's Fashion",
+        "category_id": 2,
+        "Price": 399,
+        "Size": "Medium",
+        "Image": "https://ibb.co/9pvZvQ1",
+        "Color": "white",
+        "Brand": "Furiozz  ",
+        "rating": "77"
+    },
+    {
+        "id": 3,
+        "product_name": "TIMEX Analog White Dial Women's Watch-TW000X219",
+        "category": "Women's Fashion",
+        "category_id": 2,
+        "Price": 950,
+        "Case Diameter": "35 Millimeters",
+        "Image": "https://ibb.co/7WpXFwK",
+        "Color": "White",
+        "Brand": "TIMEX ",
+        "rating": "1,917"
+    },
+    {
+        "id": 4,
+        "product_name": "Shining Diva Fashion AAA Crystal 18k Rose Gold Stylish Jewellery for Women and Girls",
+        "category": "Women's Fashion",
+        "category_id": 2,
+        "Price": 1399,
+        "Material":"Gold Plated",
+        "Image": "https://ibb.co/D1hjgcj",
+        "Color": "Rose Gold",
+        "Brand": "Shining Diva",
+        "rating": "1,970"
+    },
+    {
+        "id": 5,
+        "product_name": "Jaanvi Fashion Women's Chiffon Banarasi Printed Saree With Solid Self Printed Blouse",
+        "category": "Women's Fashion",
+        "category_id": 2,
+        "Price": 799,
+        "Saree Length": "5.5 Mtr || Saree Width:- 1.1 Mtr || Blouse Piece Length :- 0.80 Mtr",
+        "Image": "https://ibb.co/NYrDR4M",
+        "Color": "Orange-03-B",
+        "Brand": "Jaanvi Fashion  ",
+        "rating": "4"
+    },
+    {
+        "id": 1,
+        "product_name": "Lenovo IdeaPad Slim 1 AMD Ryzen 3 3250U 15.6 (39.62cm) FHD Thin & Light Laptop (8GB/512GB SSD/Windows 11/Office 2021/3months Game Pass/Cloud Grey/1.6Kg), 82R10049IN",
+        "category": "Electronics",
+        "category_id": 3,
+        "Price": 36999,
+        "Screen Size": "15.6 Inches",
+        "Hard Disk Size": "512 GB",
+        "CPU Model": " Ryzen 3",
+        "Image": "https://ibb.co/WWqkpSV",
+        "Color": "Cloud Grey",
+        "Brand": "Lenovo ",
+        "rating": "266"
+        
+    },
+    {
+        "id": 2,
+        "product_name": "Noise ColorFit Pulse 2: 1.8 Biggest Display Smart Watch, 550 NITS Brightness, Sleek Metallic Body, HR, Sleep & Spo2 Monitoring, Upto 10 Days Battery Life, Calls & SMS Reply - Mist Grey",
+        "category": "Electronics", 
+        "category_id": 3,
+        "Price": 1999,
+        "Image": "https://ibb.co/cT6HVwp",
+        "Color": "Mist Grey",
+        "Brand": "Noise  ",
+        "rating": "66,304"
+        
+    },
+    {
+        "id": 3,
+        "product_name": "OnePlus Nord CE 2 Lite 5G (Blue Tide, 6GB RAM, 128GB Storage)",
+        "category": "Electronics",
+        "category_id": 3,
+        "Price": 18999,
+        "Model Name":"OnePlus Nord CE 2 Lite 5G",
+        "Cellular Technology": "5G, 4G LTE",
+        " OS":"OxygenOS",
+        "Image": "https://ibb.co/s9vCcGy",
+        "Color": "Blue Tide",
+        "Brand": "OnePlus  ",
+        "rating": "102,880"
+        
+    },
+    {
+        "id": 4,
+        "product_name": "Apple AirPods Pro with MagSafe Charging Case",
+        "category": "Electronics",
+        "category_id": 3,
+        "Price": 19990,
+        "Compatible Devices": "Headphones",
+        "Shell Type": "Soft",
+        "Form Factor": "Case",
+        "Image": "https://ibb.co/w0Pdm9q",
+        "Color": "White",
+        "Brand": "Apple ",
+        "rating": "16,164"
+        
+    },
+    {
+        "id": 5,
+        "product_name": "Redmi 80 cm (32 inches) Android 11 Series HD Ready Smart LED TV | L32M6-RA/L32M7-RA (Black)",
+        "category": "Electronics",
+        "category_id": 3,
+        "Price": 13999,
+        "Display Technology": "LED",
+        "Resolution": "720p",
+        "Refresh Rate": "60 Hz",
+        "Screen Size": " 32 Inches",
+        "Image": "https://ibb.co/zXN1Qcj",
+        "Color": "Black",
+        "Brand": "Redmi ",
+        "rating": "44,299"
+        
+    },
+    {
+        "id": 1,
+        "product_name": "Zemic Multipurpose Bookshelf| Alloy Steel Metal Storage Shelve for Books Storage Organizer| Children Book Rack| Bookcase for Home Furniture |Cabinet Shelves for Bedroom Office Living Room (Set of 9 Cases, Grey)",
+        "category": "Home decorations",
+        "category_id": 4,
+        "Price": 1613,
+        "Size": "9 Cases",
+        "Material": "Non Woven Fabric, Plastic, Metal",
+        " Mounting Type": "Floor Mount",
+        "Style": "Modern",
+        "Image": "https://ibb.co/pWPpSdk",
+        "Color": "Plain Grey",
+        "Brand": "Zemic",
+        "rating": "1,022"
+        
+    },
+    {
+        "id": 2,
+        "product_name": "Furniture Kart wrought iron Single Seater Swing Chair with Stand, Cushion ( Large , Black )",
+        "category": "Home decorations",
+        "category_id": 4,
+        "Price": 1399,
+        "Item Weight": "35 Kilograms",
+        "Maximum Weight": "150 Kilograms",
+        "Seating Capacity": "1",
+        "Style": "Modern",
+        "Image": "https://ibb.co/DKSXbnq",
+        "Color": "Black",
+        "Brand": "Furniture Kart ",
+        "rating": "4"
+        
+    },
+    {
+        "id": 3,
+        "product_name": "Decazone Macrame Wall Hanging Shelf Wood Floating Boho Shelves with Wooden Dowel Modern Chic Hand Woven Art Decor for Apartment Dorm Bedroom Living Room Nursery Beige 55 x 43 cm",
+        "category": "Home decorations",
+        "category_id": 4,
+        "Price": 299,
+        "Material": "C, Wood",
+        "Mounting Type": "Wall Mount",
+        "Shelf Type": "Hanging Shelf",
+        "Shape": "Rectangular",
+        "Style": "Modern",
+        "Image": "https://ibb.co/tmV5HL5",
+        "Color": "white",
+        "Brand": "Decazone  ",
+        "rating": "3,678"
+        
+    },
+    {
+        "id": 4,
+        "product_name": "Cherry Wood Wooden Intersecting Floating Shelf Home Decorative Furniture for Home (Brown)",
+        "category": "Home decorations",
+        "category_id": 4,
+        "Price": 1399,
+        "Material": "C, Wood",
+        "Mounting Type": "Wall Mount",
+        "Shelf Type": "Hanging Shelf",
+        "Shape": "Rectangular",
+        "Style": "Modern",
+        "Image": "https://ibb.co/zn3H35S",
+        "Color": "brown",
+        "Brand": "Cherry Wood  ",
+        "rating": "3,787"
+        
+    },
+    {
+        "id": 5,
+        "product_name": "SMC FURNITURE TRUBA Nesting Table with Marble in Gold Finish 3 PCS Set",
+        "category": "Home decorations",
+        "category_id": 4,
+        "Price": 25150,
+        "Shape": "Round",
+        "Table design": "End Table",
+        "Product Dimensions": "T76.2D x 76.2W x 45.7H Centimeters",
+        "Style": "Modern",
+        "Image": "https://ibb.co/8D536PL",
+        "Color": "white",
+        "Brand": "SMC FURNITURE ",
+        "rating": "9"
+        
+    }
+]
