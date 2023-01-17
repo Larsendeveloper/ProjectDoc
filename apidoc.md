@@ -18,11 +18,22 @@ filter by price
 http://localhost:9500/FilterPrice/1?LowCost=100&HighCost=500
 
 filter by brand
-http://localhost:9500/Filter?FilterBrand=Puma
+
 
 
 page 3 //Detail page   //fetch products
 
+//by ObjectId
+http://localhost:9500/details/63c41b682356be2e77e07a87
+
+//by ProductId
+http://localhost:9500/details/5
+
 page 4 //order summery page///fetch products
+//Place order
+localhost:9500/placeOrder
+
+//view order
+localhost:9500/viewOrder
 
 page 2 //Payment gate way //paytm
